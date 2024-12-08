@@ -12,7 +12,7 @@ A simple user registration API built with Go using the Gin framework and MongoDB
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/go-registration-api.git
+   git clone https://github.com/kumarrohitdev/go-registration-api.git
    cd go-registration-api
    ```
 
